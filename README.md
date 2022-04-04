@@ -36,5 +36,5 @@ ADMIN<br/>
 -USER ID = admin<br/>
 -PASSWORD = admin123<br/>
 OPERATOR<br/>
--USERID = Deepak<br/>
--PASSWORD = deepak@123<br/>
+-USERID = Rimo<br/>
+-PASSWORD = Rimo@123<br/>
